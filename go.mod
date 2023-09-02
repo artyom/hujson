@@ -1,5 +1,5 @@
 module github.com/artyom/hujson
 
-go 1.18
+go 1.21
 
-require github.com/tailscale/hujson v0.0.0-20220506213045-af5ed07155e5
+require github.com/tailscale/hujson v0.0.0-20221223112325-20486734a56a
